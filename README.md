@@ -1,21 +1,23 @@
-# Vue 3 + TypeScript Project
+# Smart Task Manager Dashboard
 
-This project demonstrates a Vue 3 application built with TypeScript using Vite.
+A high-end task management dashboard built with **Vue 3** and **TypeScript**.
 
 ## Features
-- Vue 3 Composition API
-- TypeScript support
 - Component-based architecture
+- Strong TypeScript typing
+- Task priority & status management
+- Scalable folder structure
 
-## Project Setup
-```bash
-npm install
-npm run dev
+## Tech Stack
+- Vue 3 (Composition API)
+- TypeScript
+- Vite
 
-## Components
-- HelloWorld.vue – simple component using Vue 3 Composition API with TypeScript
+## Project Structure
+- `components/` – reusable UI components
+- `views/` – page-level components
+- `types/` – TypeScript models
 
-## Learning Outcome
-- Learned Vue 3 component structure
-- Used TypeScript with Vue
-- Practiced GitHub commits and documentation
+## Purpose
+This project demonstrates my ability to structure and build
+real-world Vue 3 applications using TypeScript and best practices.
