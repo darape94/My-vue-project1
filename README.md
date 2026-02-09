@@ -21,3 +21,9 @@ A high-end task management dashboard built with **Vue 3** and **TypeScript**.
 ## Purpose
 This project demonstrates my ability to structure and build
 real-world Vue 3 applications using TypeScript and best practices.
+
+## What This Project Shows
+- Real-world Vue project structure
+- Strong TypeScript typing
+- Component reusability
+- Clean Git commit history
