@@ -15,3 +15,6 @@ main {
   padding: 40px;
 }
 </style>
+
+Use HelloWorld component in App.vue
+
